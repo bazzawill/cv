@@ -145,7 +145,9 @@ __Telstra Store – Elizabeth__
 `2003 – 2007`
 __Telstra Inbound Mobile Support__
 - Call Centre Operator
+
 ### Responsibilities
+
 - Answer incoming calls and assist customers with their enquiries
 - Providing a high level of personalised customer service
 - Made outbound sales and research calls
@@ -159,14 +161,15 @@ __Telstra Inbound Mobile Support__
 
 ## Referees
 `Daniel Marotti`
-Charles Campbell College
-8165 4700  Daniel.Marotti688@schools.sa.edu.au
+- Charles Campbell College
+- 8165 4700  Daniel.Marotti688@schools.sa.edu.au
 ## |
 `Corey Witjas`
 8449 7004   Corey.Witjas194@schools.sa.edu.au
 ## |
 `Troy Barker`
-8449 7004  troy.barker264@schools.sa.edu.au
+- Le Fevre High Schoo
+- 8449 7004  troy.barker264@schools.sa.edu.au
 <!-- ### Footer Last updated: September 2022 -->
 
 
