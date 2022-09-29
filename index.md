@@ -20,7 +20,7 @@ I am currently a high school ICT teacher working towards transitioning into cybe
 Cyber security, networking, Linux, Windows, Python, JavaScript
 
 
-### PERSONAL ATTRIBUTES
+## PERSONAL ATTRIBUTES
 
 * Excellent problem solving skills
 * Passion for learning and information technology
@@ -39,7 +39,7 @@ Cyber security, networking, Linux, Windows, Python, JavaScript
 * Dedicated worker
 
 
-## Education
+## Employment History Teacher
 `2022`
 __Charles Campbell College__
 
@@ -73,17 +73,19 @@ __Banksia Park International college__
 `2016`
 __Playford international college__
 
-##### Responsibilities
-* Teach coding including python and other digital technology skills to ages 12 - 17
-* Use technology in interesting and innovative ways to maintain engagement in the classroom
+## Responsibilities
+- Teach coding including python and other digital technology skills to ages 12 - 17
+- Use technology in interesting and innovative ways to maintain engagement in the classroom
+
+## Employment History Pre teacher
 `2013 – 2015`
 __TSA Telco on Behalf of Telstra__
 
 - TSA on behalf of Telstra
 
-#### Responsibilities
-* Provide a high level of personalised customer service
-* Deal with customer conflict
+## Responsibilities
+- Provide a high level of personalised customer service
+- Deal with customer conflict
 
 
 
