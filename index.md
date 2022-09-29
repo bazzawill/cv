@@ -19,6 +19,19 @@ I am currently a high school ICT teacher working towards transitioning into cybe
 
 Cyber security, networking, Linux, Windows, Python, JavaScript
 
+## Education
+
+`2022 - Present`
+__TAFE SA__
+- Certificate IV in Cyber Security
+
+`2014 - 2015`	
+__Charles Darwin University__ 
+- Graduate Diploma of Teaching and Learning
+
+`2007 - 2010`	
+__University of South Australia__
+- Bachelor of Applied Science in Human Movement and Health Studies
 
 ## PERSONAL ATTRIBUTES
 
