@@ -21,11 +21,13 @@ Cyber security, networking, Linux, Windows, Python, JavaScript
 
 ## Education
 
-`2022 - Present `
+`2022 - 
+Present `
 __TAFE SA__
 - Certificate IV in Cyber Security
 
-`2014 - 2015 `	
+`2014 - 
+2015 `	
 __Charles Darwin University__ 
 - Graduate Diploma of Teaching and Learning
 
@@ -174,7 +176,8 @@ __Telstra Inbound Mobile Support__
 - Updated databases with changes to the details and status of each customer or prospective customer
 
 ## Referees
-`Daniel Marotti`
+`Daniel 
+Marotti`
 __Charles Campbell College__
 - 8165 4700  [Daniel.Marotti688@schools.sa.edu.au](mailto:Daniel.Marotti688@schools.sa.edu.au)
 
