@@ -113,6 +113,7 @@ __TSA Telco on Behalf of Telstra__
 - Sharing learned skills, knowledge and methods with other work colleagues to support development and improvement;
 - Updated databases with changes to the details and status of each customer or prospective customer
 
+## |
 `2010 - 2013`
 __Wilderness Escape Outdoor Adventure__
 
