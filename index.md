@@ -21,15 +21,15 @@ Cyber security, networking, Linux, Windows, Python, JavaScript
 
 ## Education
 
-`2022 - Present`
+`2022 - Present `
 __TAFE SA__
 - Certificate IV in Cyber Security
 
-`2014 - 2015`	
+`2014 - 2015 `	
 __Charles Darwin University__ 
 - Graduate Diploma of Teaching and Learning
 
-`2007 - 2010`	
+`2007 - 2010 `	
 __University of South Australia__
 - Bachelor of Applied Science in Human Movement and Health Studies
 
@@ -38,18 +38,18 @@ __University of South Australia__
 - Excellent problem solving skills
 - Passion for learning and information technology
 - Exceptional communication and computing skills
-* Highly developed phone, verbal and written communication
-* Ability to think laterally and adapt quickly
-* Capable of working both collaboratively and autonomously
-* Committed to ethical and social responsibilities and actions
-* Prompt and effective learning
-* Effective communication
-* Shows initiative
-* Reliable, honest and trustworthy
-* Flexible
-* Honest and enthusiastic
-* Team player
-* Dedicated worker
+- Highly developed phone, verbal and written communication
+- Ability to think laterally and adapt quickly
+- Capable of working both collaboratively and autonomously
+- Committed to ethical and social responsibilities and actions
+- Prompt and effective learning
+- Effective communication
+- Shows initiative
+- Reliable, honest and trustworthy
+- Flexible
+- Honest and enthusiastic
+- Team player
+- Dedicated worker
 
 
 ## Employment History 
