@@ -21,8 +21,8 @@ Cyber security, networking, Linux, Windows, Python, JavaScript
 
 ## Education
 
-`2022 - 
-Present `
+`2022 - `
+`Present `
 __TAFE SA__
 - Certificate IV in Cyber Security
 
