@@ -21,13 +21,11 @@ Cyber security, networking, Linux, Windows, Python, JavaScript
 
 ## Education
 
-`2022 - 
-Present`
+`2022 - Present`
 __TAFE SA__
 - Certificate IV in Cyber Security
 
-`2014 - 
-2015`	
+`2014 - 2015`	
 __Charles Darwin University__ 
 - Graduate Diploma of Teaching and Learning
 
