@@ -6,7 +6,7 @@ title: Barry Williams's CV
 Cyber Security, Technical Support, Former Teacher
 
 <div id="webaddress">
-<a href="bazzawill@gmail.com">bazzawill@gmail.com</a>
+<a href="mailto:bazzawill@gmail.com">bazzawill@gmail.com</a>
 
 </div>
 
@@ -186,7 +186,7 @@ __Le Fevre High School__
 ## |
 `Troy Barker`
 __Le Fevre High School__
-- 8449 7004  [troy.barker264@schools.sa.edu.au](troy.barker264@schools.sa.edu.au)
+- 8449 7004  [troy.barker264@schools.sa.edu.au](mailto:troy.barker264@schools.sa.edu.au)
 <!-- ### Footer Last updated: September 2022 -->
 
 
