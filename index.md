@@ -161,15 +161,18 @@ __Telstra Inbound Mobile Support__
 
 ## Referees
 `Daniel Marotti`
-- Charles Campbell College
-- 8165 4700  Daniel.Marotti688@schools.sa.edu.au
+__Charles Campbell College__
+- 8165 4700  [Daniel.Marotti688@schools.sa.edu.au](mailto:Daniel.Marotti688@schools.sa.edu.au)
+
 ## |
 `Corey Witjas`
-8449 7004   Corey.Witjas194@schools.sa.edu.au
+__Le Fevre High School__
+- 8449 7004   [Corey.Witjas194@schools.sa.edu.au](mailto:Corey.Witjas194@schools.sa.edu.au)
+
 ## |
 `Troy Barker`
-- Le Fevre High Schoo
-- 8449 7004  troy.barker264@schools.sa.edu.au
+__Le Fevre High School__
+- 8449 7004  [troy.barker264@schools.sa.edu.au](troy.barker264@schools.sa.edu.au)
 <!-- ### Footer Last updated: September 2022 -->
 
 
