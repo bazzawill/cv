@@ -73,7 +73,7 @@ __Banksia Park International college__
 `2016`
 __Playford international college__
 
-## Responsibilities
+### Responsibilities
 - Teach coding including python and other digital technology skills to ages 12 - 17
 - Use technology in interesting and innovative ways to maintain engagement in the classroom
 - Utilise a variety of teaching strategies
@@ -101,7 +101,7 @@ __TSA Telco on Behalf of Telstra__
 
 - TSA on behalf of Telstra
 
-## Responsibilities
+### Responsibilities
 - Provide a high level of personalised customer service
 - Deal with customer conflict
 - Objection handling 
@@ -118,7 +118,7 @@ __Wilderness Escape Outdoor Adventure__
 
 - Outdoor Education Instructor
 
-## Responsibilities
+### Responsibilities
 - Instruct and facilitate a range of activities including navigation, bushwalking, kayaking, sailing, rock climbing, high and low ropes courses, mountain biking, problem solving activities and team games. 
 - Ensure group is well managed and conduct regular head counts.
 - Conduct risk assessments and continue to monitor and reduce risk in the outdoors. 
@@ -126,19 +126,47 @@ __Wilderness Escape Outdoor Adventure__
 - Redevelop website in new content management system
 - Administer network and manage information technology of two small offices
 
+## |
+
 `2008 - 2009`
 __Telstra Store – Elizabeth__
 
 - Customer Service Officer
 
-## Responsibilities
-Offer a range of tailored solutions to valued customers
-Delivery of exceptional customer service
-Achievement of daily, weekly and monthly targets and measures
-Provision of expert advice, excellence in service and after sales care
-Understand the products and help our customers to understand how to get the most from them
-<!-- ### Footer
+### Responsibilities
+- Offer a range of tailored solutions to valued customers
+- Delivery of exceptional customer service
+- Achievement of daily, weekly and monthly targets and measures
+- Provision of expert advice, excellence in service and after sales care
+- Understand the products and help our customers to understand how to get the most from them
 
-Last updated: May 2013 -->
+## |
+
+`2003 – 2007`
+__Telstra Inbound Mobile Support__
+- Call Centre Operator
+### Responsibilities
+- Answer incoming calls and assist customers with their enquiries
+- Providing a high level of personalised customer service
+- Made outbound sales and research calls
+- Created further interest in the company's services by inviting customers to use the services and products offered 
+- Providing a quality information service for a range of internal and external clients using a range of communication strategies and responses.
+- Developing a sound working knowledge of operation, systems and processes;
+- Determining work priorities and monitoring deadlines and time frames within a collaborative environment;
+- Monitoring work quality and providing assistance and recommendations for improvement;
+- Sharing learned skills, knowledge and methods with other work colleagues to support development and improvement;
+- Updated databases with changes to the details and status of each customer or prospective customer
+
+## Referees
+`Daniel Marotti`
+Charles Campbell College
+8165 4700  Daniel.Marotti688@schools.sa.edu.au
+## |
+`Corey Witjas`
+8449 7004   Corey.Witjas194@schools.sa.edu.au
+## |
+`Troy Barker`
+8449 7004  troy.barker264@schools.sa.edu.au
+<!-- ### Footer Last updated: September 2022 -->
 
 
