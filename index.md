@@ -47,7 +47,6 @@ __University of South Australia__
 - Shows initiative
 - Reliable, honest and trustworthy
 - Flexible
-- Honest and enthusiastic
 - Team player
 - Dedicated worker
 
@@ -101,7 +100,6 @@ __Playford international college__
 - Develop project based learning
 - Participate in professional development
 - Develop strategies to cater to a variety of student ability
-- Modify learning plans to meet the needs of students with a disability, learning difficulties, students from non-english and Aboriginal or Torres Strait Island background
 - Maintain challenging learning goals for all students
 - Commitment to ethical use of ICT in the classroom
 - Conduct risk assessment and monitor risk during excursions and expeditions.
@@ -120,10 +118,9 @@ __TSA Telco on Behalf of Telstra__
 - Objection handling 
 - Retain customers wanting to leave by resolving conflict and reselling company and product
 - Create  further interest in the company's services by inviting customers to use the services and products offered 
-- Provide a quality information service for a range of internal and external clients using a range of communication strategies and responses.
-- Develop a sound working knowledge of operation, systems and processes;
-- Determine work priorities and monitoring deadlines and time frames within a collaborative environment;
-- Sharing learned skills, knowledge and methods with other work colleagues to support development and improvement;
+- Develop a sound working knowledge of operation, systems and processes
+- Determine work priorities and monitoring deadlines and time frames within a collaborative environment
+- Sharing learned skills, knowledge and methods with other work colleagues to support development and improvement
 - Updated databases with changes to the details and status of each customer or prospective customer
 
 ## |
@@ -166,7 +163,6 @@ __Telstra Inbound Mobile Support__
 - Providing a high level of personalised customer service
 - Made outbound sales and research calls
 - Created further interest in the company's services by inviting customers to use the services and products offered 
-- Providing a quality information service for a range of internal and external clients using a range of communication strategies and responses.
 - Developing a sound working knowledge of operation, systems and processes;
 - Determining work priorities and monitoring deadlines and time frames within a collaborative environment;
 - Monitoring work quality and providing assistance and recommendations for improvement;
