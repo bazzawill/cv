@@ -22,9 +22,9 @@ Cyber security, networking, Linux, Windows, Python, JavaScript
 
 ## PERSONAL ATTRIBUTES
 
-* Excellent problem solving skills
-* Passion for learning and information technology
-* Exceptional communication and computing skills
+- Excellent problem solving skills
+- Passion for learning and information technology
+- Exceptional communication and computing skills
 * Highly developed phone, verbal and written communication
 * Ability to think laterally and adapt quickly
 * Capable of working both collaboratively and autonomously
