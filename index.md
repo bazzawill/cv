@@ -17,7 +17,7 @@ I am currently a high school ICT teacher working towards transitioning into cybe
 
 ### Specialized in
 
-Cyber Security, networking, Linux, Windows (Client | Server), Active Directory, Python, JavaScript, HTML, software and hardware troubleshooting
+Cyber Security, networking, Linux, Windows \(Client and Server\), Active Directory, Python, JavaScript, HTML, software and hardware troubleshooting
 
 ## Education
 
