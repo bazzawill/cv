@@ -196,7 +196,7 @@ strong {
 }
 
 /* Mobile styling, starting at iPad portrait size */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1080px) {
   h1,
   h2,
   h3,
