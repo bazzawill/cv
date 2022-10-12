@@ -15,7 +15,7 @@ Cyber Security, Technical Support, Former Teacher
 
 I am currently a high school ICT teacher working towards transitioning into cyber security. I am studying Certificate IV in Cyber Security. I would like to gain employment in any ICT role while I complete my studies. In addition to my studies I have held an interest in computing for over 25 years.
 
-### Specialized in
+### Specialised in
 
 Cyber Security, networking, Linux, Windows \(Client and Server\), Active Directory, Python, JavaScript, HTML, software and hardware troubleshooting
 
