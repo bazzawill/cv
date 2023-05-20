@@ -3,7 +3,7 @@ layout: cv
 title: Barry Williams's CV
 ---
 # Barry Williams
-Cyber Security, Technical Support, Former Teacher
+Cyber Security, Software Testing, Former Teacher
 
 <div id="webaddress">
 <a href="mailto:bazzawill@gmail.com">bazzawill@gmail.com</a>
@@ -13,15 +13,21 @@ Cyber Security, Technical Support, Former Teacher
 
 ## Currently
 
-I am currently a high school ICT teacher working towards transitioning into cyber security. I am studying Certificate IV in Cyber Security. I would like to gain employment in any ICT role while I complete my studies. In addition to my studies I have held an interest in computing for over 25 years.
+I am a former high school ICT teacher working towards transitioning into cyber security. Currently a Software Test Engineer. I am studying towrards Cyber Security certifications. In addition to my studies I have held an interest  and personal study in computing for over 25 years.
 
 ### Specialised in
 
-Cyber Security, networking, Linux, Windows \(Client and Server\), Active Directory, Python, JavaScript, HTML, software and hardware troubleshooting
+Cyber Security, networking, Linux, Windows \(Client and Server\), Active Directory, Python, JavaScript, PowerShell, software and hardware troubleshooting
 
 ## Education
 
-`2022 - Now `
+`2023 - present`
+__Plural Sight__
+- Comptia Security+
+- (ISC)² CISSP
+- Google Cybersecurity Professional Certificate
+
+`2022`
 __TAFE SA__
 - Certificate IV in Cyber Security
 
@@ -52,6 +58,11 @@ __University of South Australia__
 
 
 ## Employment History 
+`2023 - present`
+__Services Australia__
+
+- Software Test Engineer
+
 `2022`
 __Charles Campbell College__
 
@@ -170,6 +181,11 @@ __Telstra Inbound Mobile Support__
 - Updated databases with changes to the details and status of each customer or prospective customer
 
 ## Referees
+`Adam Richards`
+__Services Australia__
+- [Adam.Richards@servicesaustralia.gov.au](mailto:Adam.Richards@servicesaustralia.gov.au)
+
+## |
 `Daniel Marotti`
 __Charles Campbell College__
 - 8165 4700  [Daniel.Marotti688@schools.sa.edu.au](mailto:Daniel.Marotti688@schools.sa.edu.au)
