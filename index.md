@@ -13,7 +13,7 @@ Cyber Security, Software Testing, Former Teacher
 
 ## Currently
 
-I am a former high school ICT teacher working towards transitioning into cyber security. Currently a Software Test Engineer. I am studying towrards Cyber Security certifications. In addition to my studies I have held an interest  and personal study in computing for over 25 years.
+I am a former high school ICT teacher working towards transitioning into cyber security. Currently a Software Test Engineer. I am studying Information Security certifications to formalise my interest and personal study in computing for over 25 years.
 
 ### Specialised in
 
