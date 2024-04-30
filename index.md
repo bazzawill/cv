@@ -78,6 +78,7 @@ __Services Australia__
 - prioritise competing tasks and work collaboratively to see tasks through to completion
 - adapt to a changing environment and assist others to adapt.
 
+<div style="page-break-after: always;"></div>
 `2022`
 __Charles Campbell College__
 
