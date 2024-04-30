@@ -148,10 +148,6 @@ __Services Australia__
 __Services Australia__
 - [Adam.Richards@servicesaustralia.gov.au](mailto:Adam.Richards@servicesaustralia.gov.au)
 
-## |
-`Daniel Marotti`
-__Charles Campbell College__
-- 8165 4700  [Daniel.Marotti688@schools.sa.edu.au](mailto:Daniel.Marotti688@schools.sa.edu.au)
 
 <!-- ### Footer Last updated: April 2024 -->
 
