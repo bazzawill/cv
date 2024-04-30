@@ -23,11 +23,11 @@ Cyber Security, networking, Linux, Windows \(Client and Server\), Active Directo
 
 `2023 - present`
 __In Progress__
-- Comptia Security+
-    - CySA+
+- CompTIA Security
+- CompTIA CySA+
 - (ISC)² CISSP
 - EC-Council Certified Ethical Hacker 
-__Complete__
+-- __Complete__
 - Google Cybersecurity Professional Certificate
 
 `2022`
