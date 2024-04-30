@@ -27,7 +27,8 @@ Cyber Security, networking, Linux, Windows \(Client and Server\), Active Directo
 - (ISC)² CISSP
 - EC-Council Certified Ethical Hacker
 - Certificate IV in Cyber Security
-`Complete`
+
+`2023`
 - Google Cybersecurity Professional Certificate
 
 `2014 - 2015 `	
