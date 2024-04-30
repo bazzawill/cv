@@ -66,6 +66,21 @@ __Services Australia__
 
 - Software Test Engineer
 
+### Responsibilities 
+- think strategically and identify broader influences that may impact on work and work area
+- support and provide assistance to others
+- build rapport and maintain stakeholder relationships
+- investigate and respond to identified issues and escalate as needed
+- clarify expectations and identify concerns
+- communicate confidently and present messages in a clear, concise and articulate manner
+- manage time and organise work against performance expectations 
+- contribute towards team work plans
+- analyse information and make recommendations based on evidence
+- research and make sound decisions based on sound subject matter knowledge and judgement
+- work independently and as part of a team under general direction
+- prioritise competing tasks and work collaboratively to see tasks through to completion
+- adapt to a changing environment and assist others to adapt.
+
 `2022`
 __Charles Campbell College__
 
@@ -125,12 +140,12 @@ __Playford international college__
 ## |
 `Alex Chaney`
 __Services Australia__
-- [Adam.Richards@servicesaustralia.gov.au](mailto:Adam.Richards@servicesaustralia.gov.au)
+- [Alex.Chaney@servicesaustralia.gov.au](mailto:Alex.Chaney@servicesaustralia.gov.au)
 
 ## |
 `Jon Marshall` 
 __Services Australia__
-- [Adam.Richards@servicesaustralia.gov.au](mailto:Adam.Richards@servicesaustralia.gov.au)
+- [Jon.Marshall@servicesaustralia.gov.au](mailto:Jon.Marshall@servicesaustralia.gov.au)
   
 ## |
 `Adam Richards`
@@ -142,15 +157,6 @@ __Services Australia__
 __Charles Campbell College__
 - 8165 4700  [Daniel.Marotti688@schools.sa.edu.au](mailto:Daniel.Marotti688@schools.sa.edu.au)
 
-## |
-`Corey Witjas`
-__Le Fevre High School__
-- 8449 7004   [Corey.Witjas194@schools.sa.edu.au](mailto:Corey.Witjas194@schools.sa.edu.au)
-
-## |
-`Troy Barker`
-__Le Fevre High School__
-- 8449 7004  [troy.barker264@schools.sa.edu.au](mailto:troy.barker264@schools.sa.edu.au)
 <!-- ### Footer Last updated: April 2024 -->
 
 
