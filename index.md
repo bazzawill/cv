@@ -22,14 +22,16 @@ Cyber Security, networking, Linux, Windows \(Client and Server\), Active Directo
 ## Education
 
 `In Progress`
-- CompTIA Security
-- CompTIA CySA+
-- (ISC)² CISSP
-- EC-Council Certified Ethical Hacker
+__CompTIA__
+- Security+
+- CySA+
+- __(ISC)²__ CISSP
+- __EC-Council__ Certified Ethical Hacker
 - Certificate IV in Cyber Security
 
 `2023`
-- Google Cybersecurity Professional Certificate
+__Google__
+- Cybersecurity Professional Certificate
 
 `2014 - 2015 `	
 __Charles Darwin University__ 
